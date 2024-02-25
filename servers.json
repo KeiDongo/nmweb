@@ -10,7 +10,7 @@
     {
       "name": "Engine Tribe",
       "id": "enginetribe",
-      "host": "http://enginetribe.onrender.com:30000",
+      "host": "http://api.enginetribe.online",
       "is_enginetribe": true,
       "tokens": {
         "zh_CN": "SMMWEMBCN",
